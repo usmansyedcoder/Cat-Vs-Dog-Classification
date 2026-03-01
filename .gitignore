@@ -1,0 +1,26 @@
+# Dataset
+dataset/
+data/
+datasets/
+*.zip
+
+# ML Models
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
