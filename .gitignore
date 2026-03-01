@@ -4,11 +4,6 @@ data/
 datasets/
 *.zip
 
-# ML Models
-*.h5
-*.pt
-*.pth
-*.ckpt
 
 # Python cache
 __pycache__/
